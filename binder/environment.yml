@@ -1,4 +1,4 @@
-name: ismb2019
+name: reproducible_test_proj_MLa
 channels:
   - conda-forge
   - rmg
